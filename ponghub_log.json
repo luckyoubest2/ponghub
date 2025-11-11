@@ -6152,10 +6152,6 @@
       "https://luckyoubest.synology.me:21": [
         {
           "online": "none",
-          "time": "2025-10-12T22:38:42Z"
-        },
-        {
-          "online": "none",
           "time": "2025-10-12T23:16:53Z"
         },
         {
@@ -11005,13 +11001,13 @@
         {
           "online": "none",
           "time": "2025-11-11T22:19:46Z"
+        },
+        {
+          "online": "none",
+          "time": "2025-11-11T22:44:50Z"
         }
       ],
       "https://luckyoubest.synology.me:32400": [
-        {
-          "online": "none",
-          "time": "2025-10-12T22:38:44Z"
-        },
         {
           "online": "none",
           "time": "2025-10-12T23:16:55Z"
@@ -15863,13 +15859,13 @@
         {
           "online": "none",
           "time": "2025-11-11T22:19:48Z"
+        },
+        {
+          "online": "none",
+          "time": "2025-11-11T22:44:52Z"
         }
       ],
       "https://luckyoubest.synology.me:5001": [
-        {
-          "online": "all",
-          "time": "2025-10-12T22:38:41Z"
-        },
         {
           "online": "all",
           "time": "2025-10-12T23:16:52Z"
@@ -20721,13 +20717,13 @@
         {
           "online": "all",
           "time": "2025-11-11T22:19:45Z"
+        },
+        {
+          "online": "all",
+          "time": "2025-11-11T22:44:49Z"
         }
       ],
       "https://luckyoubest.synology.me:5230": [
-        {
-          "online": "none",
-          "time": "2025-10-12T22:38:54Z"
-        },
         {
           "online": "none",
           "time": "2025-10-12T23:17:05Z"
@@ -25579,13 +25575,13 @@
         {
           "online": "none",
           "time": "2025-11-11T22:19:58Z"
+        },
+        {
+          "online": "none",
+          "time": "2025-11-11T22:45:02Z"
         }
       ],
       "https://luckyoubest.synology.me:84": [
-        {
-          "online": "all",
-          "time": "2025-10-12T22:38:43Z"
-        },
         {
           "online": "all",
           "time": "2025-10-12T23:16:54Z"
@@ -30437,14 +30433,14 @@
         {
           "online": "all",
           "time": "2025-11-11T22:19:47Z"
+        },
+        {
+          "online": "all",
+          "time": "2025-11-11T22:44:51Z"
         }
       ]
     },
     "service_history": [
-      {
-        "online": "part",
-        "time": "2025-10-12T22:38:41Z"
-      },
       {
         "online": "part",
         "time": "2025-10-12T23:16:52Z"
@@ -35296,6 +35292,10 @@
       {
         "online": "part",
         "time": "2025-11-11T22:19:45Z"
+      },
+      {
+        "online": "part",
+        "time": "2025-11-11T22:44:49Z"
       }
     ]
   }
