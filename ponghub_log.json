@@ -6152,22 +6152,6 @@
       "https://luckyoubest.synology.me:21": [
         {
           "online": "none",
-          "time": "2026-05-17T13:52:47Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T14:57:51Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T16:03:32Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T17:32:08Z"
-        },
-        {
-          "online": "none",
           "time": "2026-05-17T19:12:11Z"
         },
         {
@@ -7229,25 +7213,13 @@
         {
           "online": "none",
           "time": "2026-06-16T13:12:37Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-16T18:15:46Z"
         }
       ],
       "https://luckyoubest.synology.me:32400": [
-        {
-          "online": "none",
-          "time": "2026-05-17T13:52:51Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T14:57:52Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T16:03:34Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T17:32:14Z"
-        },
         {
           "online": "none",
           "time": "2026-05-17T19:12:13Z"
@@ -8311,25 +8283,13 @@
         {
           "online": "none",
           "time": "2026-06-16T13:12:39Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-16T18:15:47Z"
         }
       ],
       "https://luckyoubest.synology.me:5001": [
-        {
-          "online": "all",
-          "time": "2026-05-17T13:52:46Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T14:57:50Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T16:03:31Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T17:32:07Z"
-        },
         {
           "online": "all",
           "time": "2026-05-17T19:12:09Z"
@@ -9393,25 +9353,13 @@
         {
           "online": "all",
           "time": "2026-06-16T13:12:35Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-06-16T18:15:44Z"
         }
       ],
       "https://luckyoubest.synology.me:5230": [
-        {
-          "online": "none",
-          "time": "2026-05-17T13:53:01Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T14:58:02Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T16:03:44Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-17T17:32:24Z"
-        },
         {
           "online": "none",
           "time": "2026-05-17T19:12:23Z"
@@ -10475,25 +10423,13 @@
         {
           "online": "none",
           "time": "2026-06-16T13:12:49Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-16T18:15:57Z"
         }
       ],
       "https://luckyoubest.synology.me:84": [
-        {
-          "online": "all",
-          "time": "2026-05-17T13:52:48Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T14:57:52Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T16:03:34Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-17T17:32:13Z"
-        },
         {
           "online": "all",
           "time": "2026-05-17T19:12:11Z"
@@ -11557,26 +11493,14 @@
         {
           "online": "all",
           "time": "2026-06-16T13:12:38Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-06-16T18:15:47Z"
         }
       ]
     },
     "service_history": [
-      {
-        "online": "part",
-        "time": "2026-05-17T13:52:46Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-05-17T14:57:50Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-05-17T16:03:31Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-05-17T17:32:07Z"
-      },
       {
         "online": "part",
         "time": "2026-05-17T19:12:09Z"
@@ -12640,6 +12564,10 @@
       {
         "online": "part",
         "time": "2026-06-16T13:12:35Z"
+      },
+      {
+        "online": "part",
+        "time": "2026-06-16T18:15:44Z"
       }
     ]
   }
