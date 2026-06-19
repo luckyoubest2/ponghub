@@ -6152,14 +6152,6 @@
       "https://luckyoubest.synology.me:21": [
         {
           "online": "none",
-          "time": "2026-05-20T09:59:41Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-20T12:32:34Z"
-        },
-        {
-          "online": "none",
           "time": "2026-05-20T16:25:51Z"
         },
         {
@@ -7197,17 +7189,13 @@
         {
           "online": "none",
           "time": "2026-06-19T09:20:12Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-19T12:59:08Z"
         }
       ],
       "https://luckyoubest.synology.me:32400": [
-        {
-          "online": "none",
-          "time": "2026-05-20T09:59:47Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-20T12:32:38Z"
-        },
         {
           "online": "none",
           "time": "2026-05-20T16:25:55Z"
@@ -8247,17 +8235,13 @@
         {
           "online": "none",
           "time": "2026-06-19T09:20:14Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-19T12:59:11Z"
         }
       ],
       "https://luckyoubest.synology.me:5001": [
-        {
-          "online": "all",
-          "time": "2026-05-20T09:59:39Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-20T12:32:32Z"
-        },
         {
           "online": "all",
           "time": "2026-05-20T16:25:49Z"
@@ -9297,17 +9281,13 @@
         {
           "online": "all",
           "time": "2026-06-19T09:20:11Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-06-19T12:59:07Z"
         }
       ],
       "https://luckyoubest.synology.me:5230": [
-        {
-          "online": "none",
-          "time": "2026-05-20T09:59:57Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-05-20T12:32:48Z"
-        },
         {
           "online": "none",
           "time": "2026-05-20T16:26:05Z"
@@ -10347,17 +10327,13 @@
         {
           "online": "none",
           "time": "2026-06-19T09:20:24Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-06-19T12:59:21Z"
         }
       ],
       "https://luckyoubest.synology.me:84": [
-        {
-          "online": "all",
-          "time": "2026-05-20T09:59:46Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-05-20T12:32:37Z"
-        },
         {
           "online": "all",
           "time": "2026-05-20T16:25:53Z"
@@ -11397,18 +11373,14 @@
         {
           "online": "all",
           "time": "2026-06-19T09:20:13Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-06-19T12:59:09Z"
         }
       ]
     },
     "service_history": [
-      {
-        "online": "part",
-        "time": "2026-05-20T09:59:39Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-05-20T12:32:32Z"
-      },
       {
         "online": "part",
         "time": "2026-05-20T16:25:49Z"
@@ -12448,6 +12420,10 @@
       {
         "online": "part",
         "time": "2026-06-19T09:20:11Z"
+      },
+      {
+        "online": "part",
+        "time": "2026-06-19T12:59:07Z"
       }
     ]
   }
