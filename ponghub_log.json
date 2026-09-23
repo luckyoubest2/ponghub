@@ -6152,26 +6152,6 @@
       "https://luckyoubest.synology.me:21": [
         {
           "online": "none",
-          "time": "2026-08-24T19:29:55Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T19:57:19Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T20:36:22Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:30:12Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:55:58Z"
-        },
-        {
-          "online": "none",
           "time": "2026-08-24T22:27:45Z"
         },
         {
@@ -7041,29 +7021,13 @@
         {
           "online": "none",
           "time": "2026-09-23T18:53:31Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-09-23T22:06:15Z"
         }
       ],
       "https://luckyoubest.synology.me:32400": [
-        {
-          "online": "none",
-          "time": "2026-08-24T19:29:56Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T19:57:21Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T20:36:23Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:30:14Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:55:59Z"
-        },
         {
           "online": "none",
           "time": "2026-08-24T22:27:46Z"
@@ -7935,29 +7899,13 @@
         {
           "online": "none",
           "time": "2026-09-23T18:53:33Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-09-23T22:06:17Z"
         }
       ],
       "https://luckyoubest.synology.me:5001": [
-        {
-          "online": "all",
-          "time": "2026-08-24T19:29:54Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T19:57:19Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T20:36:21Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T21:30:11Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T21:55:57Z"
-        },
         {
           "online": "all",
           "time": "2026-08-24T22:27:44Z"
@@ -8829,29 +8777,13 @@
         {
           "online": "all",
           "time": "2026-09-23T18:53:30Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-09-23T22:06:14Z"
         }
       ],
       "https://luckyoubest.synology.me:5230": [
-        {
-          "online": "none",
-          "time": "2026-08-24T19:30:06Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T19:57:31Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T20:36:33Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:30:24Z"
-        },
-        {
-          "online": "none",
-          "time": "2026-08-24T21:56:09Z"
-        },
         {
           "online": "none",
           "time": "2026-08-24T22:27:56Z"
@@ -9723,29 +9655,13 @@
         {
           "online": "none",
           "time": "2026-09-23T18:53:43Z"
+        },
+        {
+          "online": "none",
+          "time": "2026-09-23T22:06:27Z"
         }
       ],
       "https://luckyoubest.synology.me:84": [
-        {
-          "online": "all",
-          "time": "2026-08-24T19:29:56Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T19:57:20Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T20:36:22Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T21:30:13Z"
-        },
-        {
-          "online": "all",
-          "time": "2026-08-24T21:55:58Z"
-        },
         {
           "online": "all",
           "time": "2026-08-24T22:27:45Z"
@@ -10617,30 +10533,14 @@
         {
           "online": "all",
           "time": "2026-09-23T18:53:32Z"
+        },
+        {
+          "online": "all",
+          "time": "2026-09-23T22:06:15Z"
         }
       ]
     },
     "service_history": [
-      {
-        "online": "part",
-        "time": "2026-08-24T19:29:54Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-08-24T19:57:19Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-08-24T20:36:21Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-08-24T21:30:11Z"
-      },
-      {
-        "online": "part",
-        "time": "2026-08-24T21:55:57Z"
-      },
       {
         "online": "part",
         "time": "2026-08-24T22:27:44Z"
@@ -11512,6 +11412,10 @@
       {
         "online": "part",
         "time": "2026-09-23T18:53:30Z"
+      },
+      {
+        "online": "part",
+        "time": "2026-09-23T22:06:14Z"
       }
     ]
   }
